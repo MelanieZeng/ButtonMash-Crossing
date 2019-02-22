@@ -1,5 +1,6 @@
 # ButtonMash-Crossing
 A set of augmented objects to allow pedestrians at stop light to interact with other pedestrians on the other side of the street.
+
 [![](https://github.com/MelanieZeng/ButtonMash-Crossing/blob/master/ButtonMash%20Crossing.jpg)](https://youtu.be/oniKodlHzgs)
 
 This project was created with my teammates for my IoT course at CMU. I was responsible for programming the game, while the other two teammates were responsiable for sharing the cloud data across the devices and making light animations.
